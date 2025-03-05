@@ -1,6 +1,6 @@
 # 🏏 CricBot - Your Cricket Chatbot
 
-CricBot is an interactive chatbot designed to provide in-depth cricket knowledge. Whether you want to know much more about cricket, about the tournaments just like a cricket handbook, CricBot is here to assist!
+CricBot is an interactive chatbot designed to provide in-depth cricket knowledge.AI-powered cricket chatbot designed to be your ultimate companion for everything related to cricket.Powered by advanced AI, natural language processing (NLP), and vector-based retrieval, CricBot delivers accurate, real-time responses to all your cricket-related queries. From match schedules and player statistics to tournament history and cricket rules, CricBot acts as your personal cricket encyclopedia – available at your fingertips!
 
 ## 🚀 Features
 - 📢 **Instant Cricket Insights** – Ask about rules, teams, matches, and tournaments.
