@@ -20,7 +20,7 @@ index_name = "cricbot"
 
 docsearch = PineconeVectorStore.from_existing_index(index_name = index_name, embedding=embeddings)
 retriever = docsearch.as_retriever(search_type = "similarity",search_kwargs={"k":3})
-llm = ChatGoogleGenerativeAI(model = "gemini-1.5-pro", temperature= 0.5)
+llm = ChatGoogleGenerativeAI(model = "gemini-1.5-pro", temperature= 0)
 prompt = ChatPromptTemplate.from_messages(
     [
         ("system",System_prompt),
